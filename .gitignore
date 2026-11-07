@@ -1,0 +1,17 @@
+**/bin/
+**/obj/
+.vs/
+.idea/
+.vscode/
+artifacts/
+TestResults/
+*.user
+*.suo
+*.log
+.env
+.env.*
+!.env.example
+**/settings.json
+*.pfx
+*.p12
+!/.gitignore
