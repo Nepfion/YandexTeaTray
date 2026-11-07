@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/YandexTeaTray/YandexTeaTray.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/YandexTeaTray.Tests/YandexTeaTray.Tests.csproj" />
+  </Folder>
+</Solution>
